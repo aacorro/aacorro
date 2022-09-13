@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @aacorro
-- 👀 I’m interested in front end languages
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on html and css at the moment
-- 📫 How to reach me ...
+- 👋 Hello, Abdiel Corro
+- 👀 Software engineer in progress
+- 
 
 <!---
 aacorro/aacorro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
