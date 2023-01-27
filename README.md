@@ -10,7 +10,7 @@ For me, programming and software development combines my interest in creation an
 <br>
 - 💬 Ask me about **C# ASP.NET**
 
-- 📫 How to reach me **acorro@outlook.com**
+- 📫 How to reach me **aacorro@outlook.com**
 
 
 <h3 align="center">Connect with me:</h3>
