@@ -5,7 +5,7 @@
 <br>
 <h3 align="center">Full Stack Developer</h3>
 
-For me, programming and software development combines my interest in creation and design with an environment of constant learning and discovery. I find myself looking forward to the challenges the work presents. Planning and strategizing about a solution, execute it, and then see the benefits of that solution made real is one of the best feelings in the world. Software development gives joy and excitement to my life and keeps me coming back for more. 
+Programming and software development combines my interest in creation and design with an environment of constant learning and discovery. I find myself looking forward to the challenges the work presents. Planning and strategizing about a solution, executing it, and then seeing the benefits of that solution are one of the best feelings in the world. Software development gives me joy and excitement. It keeps me coming back for more.
 <br>
 <br>
 - 💬 Ask me about **C# ASP.NET**
